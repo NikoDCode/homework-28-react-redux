@@ -16,3 +16,5 @@
    ```
 
 ## Демо
+
+https://homework-28-react-redux.vercel.app/
